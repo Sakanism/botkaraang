@@ -1,0 +1,47 @@
+{
+  "120363400222855133@g.us": {
+    "isActive": false,
+    "title": "",
+    "options": [],
+    "optionMap": {},
+    "results": {},
+    "votedParticipants": [],
+    "resultsMessageId": null,
+    "groupId": "120363400222855133@g.us",
+    "votedMessageRecipients": [],
+    "reminderInterval": null,
+    "reminderTime": 0,
+    "lastReminderSent": {},
+    "startTime": 0
+  },
+  "120363318868551656@g.us": {
+    "isActive": false,
+    "title": "",
+    "options": [],
+    "optionMap": {},
+    "results": {},
+    "votedParticipants": [],
+    "resultsMessageId": null,
+    "groupId": "120363318868551656@g.us",
+    "votedMessageRecipients": [],
+    "reminderInterval": null,
+    "reminderTime": 0,
+    "lastReminderSent": {},
+    "startTime": 0
+  },
+  "120363420422158822@g.us": {
+    "isActive": false,
+    "title": "",
+    "options": [],
+    "optionMap": {},
+    "results": {},
+    "votedParticipants": [],
+    "resultsMessageId": null,
+    "groupId": "120363420422158822@g.us",
+    "votedMessageRecipients": [],
+    "reminderInterval": null,
+    "reminderTime": 0,
+    "lastReminderSent": {},
+    "startTime": 0
+  }
+}

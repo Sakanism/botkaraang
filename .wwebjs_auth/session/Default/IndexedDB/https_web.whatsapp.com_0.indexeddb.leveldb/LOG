@@ -1,0 +1,4 @@
+2025/06/17-09:39:27.840 2b30 Reusing MANIFEST G:\karang taruna bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/17-09:39:27.850 2b30 Recovering log #319
+2025/06/17-09:39:27.897 2b30 Reusing old log G:\karang taruna bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000319.log 
+2025/06/17-09:39:32.154 2ed4 Manual compaction at level-0 from '\x00Z\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00[\x00\x00\x00' @ 0 : 0; will stop at (end)
