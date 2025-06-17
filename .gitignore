@@ -1,0 +1,16 @@
+# Folder dependensi Node.js (Wajib diabaikan)
+node_modules/
+
+# Folder sesi WhatsApp (SANGAT PENTING untuk keamanan)
+.wwebjs_auth/
+.wwebjs_plus_auth/
+
+# Folder media sementara yang kita buat
+temp_media/
+
+# File log atau debug (jika ada)
+*.log
+npm-debug.log
+
+# File environment yang mungkin berisi API Key di masa depan
+.env
